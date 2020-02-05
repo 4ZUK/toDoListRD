@@ -11,8 +11,8 @@ listaDiv.forEach((div, index) => {
 });
 
 let section = document.createElement("section");
-section.innerHTML "OIOIOIOIOIOIOIOI";
-section.setAttribute: ('class', 'content minhaClass')
+section.innerHTML = "OIOIOIOIOIOIOIOI";
+section.setAttribute('class', 'content minhaClass')
 body.appendChild(section);
 
 console.log(body);
