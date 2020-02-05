@@ -14,11 +14,7 @@ div.box {
     border-radius: 30%;
 }
 
-footer{
-    width: 100vw;
-    display:flex;
-    padding: 0.3%;
-}
+
 i.fa-check-square-o{
     display:flex;
     align-items: baseline;
@@ -27,4 +23,11 @@ i.fa-check-square-o{
 textarea{
     width: 200px;
     height: 40px;
+}
+
+#adctarefa{
+ display: flex;
+}
+footner{
+    position:fixed
 }
